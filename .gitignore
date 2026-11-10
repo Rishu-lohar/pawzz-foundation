@@ -43,3 +43,12 @@ next-env.d.ts
 # Local AI and assignment notes
 AGENTS.md
 ASSIGNMENT_CHECKLIST.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Windows system files
+desktop.ini
