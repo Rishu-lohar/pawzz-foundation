@@ -1,0 +1,49 @@
+{
+  "title": "Get Your Pet Ready for a Vet Visit",
+  "topic": "How to prepare pets for a routine veterinary checkup",
+  "platform": "Instagram",
+  "audience": "Pet parents",
+  "slides": [
+    {
+      "slide_number": 1,
+      "headline": "Is your furry friend ready for the vet?",
+      "body": "Let’s turn a routine checkup into a smooth, stress‑free experience for both of you!",
+      "visual_direction": "Bright, eye‑catching image of a happy pet in a carrier"
+    },
+    {
+      "slide_number": 2,
+      "headline": "Step 1: Make the carrier a favorite",
+      "body": "Use the same carrier at home. Fill it with a cozy blanket and a favorite treat to create positive associations.",
+      "visual_direction": "Photo of a carrier with a blanket and treat"
+    },
+    {
+      "slide_number": 3,
+      "headline": "Step 2: Practice gentle handling",
+      "body": "Daily, touch your pet’s paws, ears, and mouth for a few seconds. Keep it short, praise, and reward. Repeat until they’re comfortable.",
+      "visual_direction": "Illustration of a hand gently touching a pet’s paw"
+    },
+    {
+      "slide_number": 4,
+      "headline": "Step 3: Schedule a pre‑check visit",
+      "body": "Bring medical records, ask questions, and let the vet see your pet in a relaxed setting. It builds trust before the big day.",
+      "visual_direction": "Image of a calendar with a vet appointment highlighted"
+    },
+    {
+      "slide_number": 5,
+      "headline": "Step 4: Celebrate the visit",
+      "body": "After the exam, give a treat, play, or a gentle petting session. Positive reinforcement makes future visits easier.",
+      "visual_direction": "Picture of a pet receiving a treat with a happy owner"
+    }
+  ],
+  "caption": "Preparing your pet for a vet visit doesn’t have to be stressful! Follow these simple steps to keep your furry friend calm and confident. 🐾✨",
+  "hashtags": [
+    "#PetCare",
+    "#VetVisit",
+    "#PetParenting",
+    "#HealthyPets"
+  ],
+  "cta": "Share your own vet prep tips in the comments and tag a fellow pet parent who needs this!",
+  "research_notes": [
+    "Verify carrier and handling guidelines with your local veterinarian or reputable veterinary resources."
+  ]
+}
